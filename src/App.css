@@ -1,0 +1,20 @@
+body{
+  margin:0px;
+  font-family:Arial;
+  background:#f4f4f4;
+}
+
+.navbar{
+  background:#222;
+  color:white;
+  padding:15px;
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
+.navbar a{
+  color:white;
+  margin-left:15px;
+  text-decoration:none;
+}
